@@ -1,0 +1,6 @@
+Credentials cache: API:D06CEB3B-356C-4190-B063-AE269EC57D62
+           Principal: iporsenn@42.FR
+
+Issued                Expires               Principal
+Jul  4 19:12:28 2017  Jul 11 19:12:28 2017  krbtgt/42.FR@42.FR
+Jul  4 19:14:00 2017  Jul 11 19:12:28 2017  host/vgs-fn1.42.fr@42.FR
